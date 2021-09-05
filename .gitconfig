@@ -1,0 +1,6 @@
+[core]
+	editor = vim
+	excludesfile = /home/jinstoz/.gitignore
+[user]
+	name = Jinstorm
+	email = snowstorm.xjtu.edu.cn
